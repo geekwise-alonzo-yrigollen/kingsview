@@ -5,3 +5,15 @@ html,body{
     
 }
 
+body{
+    background-color: whitesmoke;
+}
+
+header > nav > ul{
+    display:inline-block;
+    width:100%;
+    list-style: none;
+    text-transform: capitalize;
+    color:#ffffff;
+    background-color:cadetblue;
+}
