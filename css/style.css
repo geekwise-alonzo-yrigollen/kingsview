@@ -79,8 +79,8 @@ a{
     text-decoration: none;
 }
 #views{
-    background-color: #edeeef;
-    color: #898989;
+    background-color:whitesmoke;
+    color:whitesmoke;
     width: 90%;
     margin: auto;
     text-align: center;
@@ -119,5 +119,11 @@ span{
     font-size: 1.3rem;
     
 }
+#second{
+    color:white;
+}
 
+#third{
+    color:white;
+}
 
