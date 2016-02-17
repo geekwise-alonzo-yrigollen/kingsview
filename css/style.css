@@ -23,7 +23,7 @@ ul{
     margin-right: 60px;
 }
 li{
-    ont-size: 18px;
+    font-size: 18px;
     box-sizing: border-box;  
     margin-bottom: 0;
     padding-left: 50px;
@@ -34,7 +34,7 @@ li{
 li:hover{
     background-color:cadetblue;
 }
-logo{
+#logo{
    padding-left: 50px;
     
 }
