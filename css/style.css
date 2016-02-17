@@ -10,7 +10,7 @@ body{
 }
 
 header{
-    height: 400px;
+    height: 350px;
     background-image: url(http://www.kingsview.org/sites/all/themes/paprika/img/bg-home.jpg);
     background-color:transparent;
     width: 100%;
@@ -36,4 +36,11 @@ li{
 #logo{
    padding-left: 50px;
     
+}
+main{
+    background-color:yellow;
+    
+}
+#main1{
+    background-image:center;
 }
