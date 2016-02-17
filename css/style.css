@@ -10,6 +10,8 @@ body{
 }
 
 header{
+    text-transform: capitalize;
+
     background-color:#5A6D95;
 }
 
@@ -27,6 +29,6 @@ header > nav > ul{
     width:100%;
     list-style: none;
     text-transform: capitalize;
-    color:#5A6D95;
-    background-color:cadetblue;
+    color:white;
+    
 }
