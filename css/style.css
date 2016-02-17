@@ -9,6 +9,10 @@ body{
     background-color: whitesmoke;
 }
 
+header{
+    background-color:cadetblue;
+}
+
 header > nav > ul{
     display:inline-block;
     width:100%;
