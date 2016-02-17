@@ -10,31 +10,30 @@ body{
 }
 
 header{
-    text-transform: capitalize;
-
-    background-color:#5A6D95;
-}
-
-header > a{
-    height: 100%;
-    width:100%;
-    display: block;
-    width:24.3rem;
-    height: 7rem;
+    height: 400px;
     background-image: url(http://www.kingsview.org/sites/all/themes/paprika/img/bg-home.jpg);
+    background-color:transparent;
+    width: 100%;
+    margin: 0;
+    padding: 0;
 } 
 
-header > nav > ul{
-    display:inline-block;
-    width:100%;
-    list-style: none;
-    text-transform: capitalize;
-    color:white;
     
 }
 
-big_image{
-    width:100%;
-    background-color:aqua;
+ul{
+    float: right;
+    margin-right: 60px;
+}
+li{
+    font-size: 18px;
+    box-sizing: border-box;  
+    margin-bottom: 0;
+    padding-left: 50px;
+    display: inline-block;
+    color: white;
+}
+#logo{
+   padding-left: 50px;
     
 }
