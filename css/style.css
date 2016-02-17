@@ -47,8 +47,8 @@ article{
 main{
     width: 100%;
 }
-#main1{
-     background-color:#edeeef;
+h1{
+    background-color:#edeeef;
     margin:0 auto;
     text-align: center;
     text-decoration-color: gray;
@@ -66,8 +66,10 @@ main{
     
 }
 #img_2{
+    padding 10px;
     float: left;
     width: calc(100%/2);
+    
     
 }
 #kings{
@@ -76,20 +78,28 @@ main{
     text-align: center;
 }
 
+#ul_menu{
+    float: right;
+    margin:50px;
+}
+
+#menu_two{
+    margin:120px;
+    padding:none;
+    background-color: white;
+    color: black;
+    height: 200px;
+}
+
 footer{
     background-color: #5a6d95;
-    height:5rem;
+    height:2rem;
     width: 80%;
     padding: 15px;
     margin: 0 auto;
     box-sizing: border-box;
     color: white;
     
-}
-#menu_two{
-    background-color: #edeeef;
-    color: black;
-    height: 200px;
 }
 
 
