@@ -13,6 +13,15 @@ header{
     background-color:#5A6D95;
 }
 
+header > a{
+    height: 100%;
+    width:100%;
+    display: block;
+    width:24.3rem;
+    height: 7rem;
+    background-image: url(http://www.kingsview.org/sites/all/themes/paprika/img/bg-home.jpg);
+} 
+
 header > nav > ul{
     display:inline-block;
     width:100%;
