@@ -1,62 +1,64 @@
-html,body{
-    margin:0;
-    padding:0;
-    width:100%;
+body{
+    background-color: #edeeef;
+    color: #edeeef;
     
 }
-
-body{
-    background-color: whitesmoke;
-}
-
 header{
-    height: 350px;
+    height: 200px;
     background-image: url(http://www.kingsview.org/sites/all/themes/paprika/img/bg-home.jpg);
     background-color:transparent;
     width: 100%;
-    margin: 0;
-    padding: 0;
-} 
+    
+}
 
 ul{
-    float: right;
-    margin-right: 60px;
-}
-
-
-drop1{
+   float: right;
+    margin-right:10px;
     
-    font-size: 18px;
+    
+}
+.first_leaf{
+    
+    font-size: 14.4px;
     box-sizing: border-box;  
     margin-bottom: 0;
     padding-left: 50px;
-    display: inline-block;
-    color: white;
-    border-radius:4px 4px 0px 0px;
+    display: inline-block;  
+    
 }
-
-
-li{
-    font-size: 18px;
-    box-sizing: border-box;  
-    margin-bottom: 0;
-    padding-left: 50px;
-    display: inline-block;
-    color: white;
-    border-radius:4px 4px 0px 0px;
+a{
+    text-decoration: none;
+    color:#707070;
 }
-li:hover{
-    background-color:cadetblue;
+.atag{
+    color: white;
 }
 #logo{
-   padding-left: 50px;
+    padding-left: 60px;
+}
+#slideshow{
+    background-color:#edeeef;
+    color:#898989;
+    text-align: center;
+    margin: 0 auto;
+    height: 400px;
+    width: 80%;
+    
     
 }
-article{
-    width: 80%;
-    margin-bottom: 5px;
-    text-align: center
+u{
+    text-decoration: none;
+}
+h1{
+    background-color:#edeeef;
+    color:#898989;
+    font-size: 23px;
+    text-align: center;
+    font-weight: normal;
+    text-transform: uppercase;
+    letter-spacing:.2em;
     
+   
 }
 main{
     width: 100%;
